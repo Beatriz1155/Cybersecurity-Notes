@@ -40,7 +40,7 @@
 - The **attack surface** is the aggregate of all accessible attack vectors across hardware, software, network, and human components of an information system.
 
 ### Types of Attack Surface
-1. **Digital Attack Surface**
+**1. Digital Attack Surface**
     - Public-facing web applications;
     - Open ports and services;
     - APIs;
@@ -49,13 +49,13 @@
     - VPN gateways;
     - Misconfigured DNS records.
 
-2. **Physical Attack Surface**
+**2. Physical Attack Surface**
     - Unlocked server rooms;
     - Exposed USB ports;
     - Stolen laptops;
     - Access badges;
 
-3. **Human Attack Surface**
+**3. Human Attack Surface**
     - Employees vulnerable to phishing;
     - Weak password practices;
     - Insider threats.
@@ -77,59 +77,59 @@ Security strategy often focuses on:
 # Types of Threat Actors
 - A **threat actor** is any individual, group, or entity that has the capability and intent to carry out malicious cyber activity against a target.
 
-1. **Cybercriminals**
+**1. Cybercriminals**
 
 Primary Motivation: Financial gain.
 
-They conduct:
+**They conduct:**
   - Ransomware attacks;
   - Phishing campaigns;
   - Identity theft;
   - Financial fraud.
 
-2. **Nation-State Actors (APT Groups)**
+**2. Nation-State Actors (APT Groups)**
 
 Primary Motivation: Espionage, geopolitical advantage, sabotage.
 Often referred to as Advanced Persistent Threats (APTs).
 
-Characteristics:
+**Characteristics:**
   - Long-term campaigns;
   - Custom malware;
   - Zero-day exploitation;
   - Sophisticated persistence techniques.
 
-3. **Hacktivists**
+**3. Hacktivists**
 
 Primary Motivation: Political or ideological causes.
 
-Activities include:
+**Activities include:**
   - Website defacement;
   - DDoS attacks;
   - Data leaks.
 
-4. **Insider Threats**
+**4. Insider Threats**
 
 Primary Motivation: Revenge, financial gain, negligence.
 
-Types:
+**Types:**
   - Malicious insiders;
   - Negligent employees;
   - Compromised insiders.
 
-5. **Script Kiddies**
+**5. Script Kiddies**
 
 Primary Motivation: Curiosity, reputation, boredom.
 
-They:
+**They:**
 - Use publicly available exploit tools;
 - Lack deep technical understanding;
 - Target easily exploitable systems.
 
-6. **Terrorist Organizations**
+**6. Terrorist Organizations**
 
 Primary Motivation: Fear, disruption, ideological warfare.
 
-Activities may include:
+**Activities may include:**
   - Targeting critical infrastructure;
   - Cyber-propaganda;
   - Disruption campaigns.
@@ -139,32 +139,32 @@ Activities may include:
 
 ### 7 Stages of the Cyber Kill Chain
 
-1. **Reconnaissance**
+**1. Reconnaissance**
 - Attacker gathers information about the target.
 - Techniques: Social media research, network scanning, footprinting.
 - Goal: Identify vulnerabilities and attack vectors.
 
-2. **Weaponization**
+**2. Weaponization**
 - Attacker creates a deliverable (malware, exploit) tailored to the target.
 - Combines exploit with a payload (ransomware or remote access tool).
 
-3. **Delivery**
+**3. Delivery**
 - The weaponized payload is transmitted to the target.
 - Methods: Phishing email, malicious USB, drive-by download, or compromised website.
 
-4. **Exploitation**
+**4. Exploitation**
 - Triggering the payload to exploit a vulnerability in the target system.
 - Example: Exploiting an unpatched application or weak authentication.
 
-5. **Installation**
+**5. Installation**
 - Attacker installs malware or backdoor to maintain persistent access.
 - Often designed to evade detection and survive system reboots.
 
-6. **Command and Control (C2)**
+**6. Command and Control (C2)**
 - The attacker establishes a remote communication channel with the compromised system.
 - Enables remote manipulation, data exfiltration, or lateral movement.
 
-7. **Actions on Objectives**
+**7. Actions on Objectives**
 - Attacker achieves their ultimate goal:
     - Data theft;
     - Ransomware encryption;
@@ -176,18 +176,18 @@ Activities may include:
 
 ### Core Concepts
 
-1. **Tactics**
+**1. Tactics**
 - Represent the attacker’s goals or objectives during an attack.
 - Example: Initial Access, Persistence, Privilege Escalation.
 
-2. **Techniques**
+**2. Techniques**
 - Specific methods used to achieve a tactic.
 - Example: Spear-phishing attachments (Initial Access), Credential Dumping (Credential Access).
 
-3. **Sub-Techniques**
+**3. Sub-Techniques**
 - More granular breakdowns of techniques for detailed analysis.
 
-4. **Procedures**
+**4. Procedures**
 - Real-world examples of how threat actors implement techniques.
 
 ### MITRE ATT&CK Matrices
