@@ -50,13 +50,14 @@
     - VPN gateways;
     - Misconfigured DNS records.
 
-2. **Physical Attack Surface**
-    - Unlocked server rooms;
-    - Exposed USB ports;
-    - Stolen laptops;
-    - Access badges;
+**2. Physical Attack Surface**
 
-3. **Human Attack Surface**
+  - Unlocked server rooms;
+  - Exposed USB ports;
+  - Stolen laptops;
+  - Access badges;
+
+4. **Human Attack Surface**
     - Employees vulnerable to phishing;
     - Weak password practices;
     - Insider threats.
