@@ -37,6 +37,15 @@
 | Risk     | Potential damage     | What happens if it succeeds? |
 
 # Attack Surface
+- The **attack surface** is the aggregate of all accessible attack vectors across hardware, software, network, and human components of an information system.
+
+### Types of Attack Surface
+1. **Digital Attack Surface**
+  - ggg
+
+2. **Physical Attack Surface**
+
+3. **Human Attack Surface**
 
 # Types of Threat Actors
 
