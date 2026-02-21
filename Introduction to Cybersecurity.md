@@ -27,6 +27,14 @@
   Risk considers:
     - The likelihood of exploitation;
     - The potential impact on confidentiality, integrity, and availability;
+ 
+### Simple Comparison
+
+| Term  | What it Represents | Key Question |
+| ------------- |:-------------:|:-------------:
+| Threat    | Potential cause of harm |
+| left bar      | right bar     |
+| left baz      | right baz     |
 
 # Attack Surface
 
