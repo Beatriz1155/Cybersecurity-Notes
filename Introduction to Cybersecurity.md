@@ -78,7 +78,9 @@ Security strategy often focuses on:
 - A **threat actor** is any individual, group, or entity that has the capability and intent to carry out malicious cyber activity against a target.
 
 1. **Cybercriminals**
-- Primary Motivation: Financial gain.
+
+Primary Motivation: Financial gain.
+
 They conduct:
   - Ransomware attacks;
   - Phishing campaigns;
@@ -86,6 +88,7 @@ They conduct:
   - Financial fraud.
 
 2. **Nation-State Actors (APT Groups)**
+
 Primary Motivation: Espionage, geopolitical advantage, sabotage.
 Often referred to as Advanced Persistent Threats (APTs).
 Characteristics:
@@ -95,6 +98,7 @@ Characteristics:
   - Sophisticated persistence techniques.
 
 3. **Hacktivists**
+
 Primary Motivation: Political or ideological causes.
 Activities include:
   - Website defacement;
@@ -102,6 +106,7 @@ Activities include:
   - Data leaks.
 
 4. **Insider Threats**
+
 Primary Motivation: Revenge, financial gain, negligence.
 Types:
   - Malicious insiders;
@@ -109,6 +114,7 @@ Types:
   - Compromised insiders.
 
 5. **Script Kiddies**
+
 Primary Motivation: Curiosity, reputation, boredom.
 They:
 - Use publicly available exploit tools;
@@ -116,6 +122,7 @@ They:
 - Target easily exploitable systems.
 
 6. **Terrorist Organizations**
+
 Primary Motivation: Fear, disruption, ideological warfare.
 Activities may include:
   - Targeting critical infrastructure;
