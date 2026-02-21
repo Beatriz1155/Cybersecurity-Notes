@@ -57,7 +57,7 @@
   - Stolen laptops;
   - Access badges;
 
-**4. Human Attack Surface**
+**3. Human Attack Surface**
 
   - Employees vulnerable to phishing;
   - Weak password practices;
