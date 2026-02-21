@@ -91,6 +91,7 @@ They conduct:
 
 Primary Motivation: Espionage, geopolitical advantage, sabotage.
 Often referred to as Advanced Persistent Threats (APTs).
+
 Characteristics:
   - Long-term campaigns;
   - Custom malware;
@@ -100,6 +101,7 @@ Characteristics:
 3. **Hacktivists**
 
 Primary Motivation: Political or ideological causes.
+
 Activities include:
   - Website defacement;
   - DDoS attacks;
@@ -108,6 +110,7 @@ Activities include:
 4. **Insider Threats**
 
 Primary Motivation: Revenge, financial gain, negligence.
+
 Types:
   - Malicious insiders;
   - Negligent employees;
@@ -116,6 +119,7 @@ Types:
 5. **Script Kiddies**
 
 Primary Motivation: Curiosity, reputation, boredom.
+
 They:
 - Use publicly available exploit tools;
 - Lack deep technical understanding;
@@ -124,6 +128,7 @@ They:
 6. **Terrorist Organizations**
 
 Primary Motivation: Fear, disruption, ideological warfare.
+
 Activities may include:
   - Targeting critical infrastructure;
   - Cyber-propaganda;
