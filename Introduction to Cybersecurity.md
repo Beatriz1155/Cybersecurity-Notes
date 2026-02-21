@@ -40,7 +40,8 @@
 - The **attack surface** is the aggregate of all accessible attack vectors across hardware, software, network, and human components of an information system.
 
 ### Types of Attack Surface
-1. **Digital Attack Surface**
+**1. Digital Attack Surface**
+
     - Public-facing web applications;
     - Open ports and services;
     - APIs;
