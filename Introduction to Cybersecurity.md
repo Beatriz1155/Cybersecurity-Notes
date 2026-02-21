@@ -3,15 +3,15 @@
 
 #CIA Triad (Confidentiality, Integrity, Availability)
 
-Confidentiality: Prevent unauthorizes access to data.
-Integrity: Ensuring data is not altered.
-Availability: Ensuring data/services are accessible when needed.
+- Confidentiality: Prevent unauthorizes access to data.
+- Integrity: Ensuring data is not altered.
+- Availability: Ensuring data/services are accessible when needed.
 
 #Threat vs Vulnerability vs Risk
 
-Threat: 
-Vulnerability:
-Risk: 
+- Threat: 
+- Vulnerability:
+- Risk: 
 
 #Attack Surface
 
