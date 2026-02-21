@@ -42,13 +42,13 @@
 ### Types of Attack Surface
 **1. Digital Attack Surface**
 
-    - Public-facing web applications;
-    - Open ports and services;
-    - APIs;
-    - Cloud storage buckets;
-    - Email servers;
-    - VPN gateways;
-    - Misconfigured DNS records.
+  - Public-facing web applications;
+  - Open ports and services;
+  - APIs;
+  - Cloud storage buckets;
+  - Email servers;
+  - VPN gateways;
+  - Misconfigured DNS records.
 
 **2. Physical Attack Surface**
 
@@ -57,10 +57,11 @@
   - Stolen laptops;
   - Access badges;
 
-4. **Human Attack Surface**
-    - Employees vulnerable to phishing;
-    - Weak password practices;
-    - Insider threats.
+**4. Human Attack Surface**
+
+  - Employees vulnerable to phishing;
+  - Weak password practices;
+  - Insider threats.
   
 ### Why Attack Surface Matters
 The larger the attack surface:
