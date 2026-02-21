@@ -41,11 +41,38 @@
 
 ### Types of Attack Surface
 1. **Digital Attack Surface**
-    - ggg
+    - Public-facing web applications;
+    - Open ports and services;
+    - APIs;
+    - Cloud storage buckets;
+    - Email servers;
+    - VPN gateways;
+    - Misconfigured DNS records.
 
 2. **Physical Attack Surface**
+    - Unlocked server rooms;
+    - Exposed USB ports;
+    - Stolen laptops;
+    - Access badges;
 
 3. **Human Attack Surface**
+    - Employees vulnerable to phishing;
+    - Weak password practices;
+    - Insider threats.
+  
+### Why Attack Surface Matters
+The larger the attack surface:
+  - The more opportunities attackers have;
+  - The harder it becomes to monitor and secure;
+  - The greater the overall risk exposure.
+
+Security strategy often focuses on:
+  - **Attack Surface Reduction (ASR)**
+    - Closing unused ports;
+    - Removing unnecessary services;
+    - Enforcing MFA;
+    - Applying patches;
+    - Disabling legacy protocols.
 
 # Types of Threat Actors
 
