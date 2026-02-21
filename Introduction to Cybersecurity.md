@@ -40,7 +40,7 @@
 - The **attack surface** is the aggregate of all accessible attack vectors across hardware, software, network, and human components of an information system.
 
 ### Types of Attack Surface
-**1. Digital Attack Surface**
+1. **Digital Attack Surface**
     - Public-facing web applications;
     - Open ports and services;
     - APIs;
@@ -49,13 +49,13 @@
     - VPN gateways;
     - Misconfigured DNS records.
 
-**2. Physical Attack Surface**
+2. **Physical Attack Surface**
     - Unlocked server rooms;
     - Exposed USB ports;
     - Stolen laptops;
     - Access badges;
 
-**3. Human Attack Surface**
+3. **Human Attack Surface**
     - Employees vulnerable to phishing;
     - Weak password practices;
     - Insider threats.
@@ -77,7 +77,7 @@ Security strategy often focuses on:
 # Types of Threat Actors
 - A **threat actor** is any individual, group, or entity that has the capability and intent to carry out malicious cyber activity against a target.
 
-**1. Cybercriminals**
+1. Cybercriminals**
 
 Primary Motivation: Financial gain.
 
