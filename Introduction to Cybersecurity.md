@@ -78,7 +78,7 @@ Security strategy often focuses on:
 - A **threat actor** is any individual, group, or entity that has the capability and intent to carry out malicious cyber activity against a target.
 
 1. **Cybercriminals**
-Primary Motivation: Financial gain.
+- Primary Motivation: Financial gain.
 They conduct:
   - Ransomware attacks;
   - Phishing campaigns;
