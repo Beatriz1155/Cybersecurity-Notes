@@ -32,9 +32,9 @@
 
 | Term  | What it Represents | Key Question |
 | ------------- |:-------------:|:-------------:
-| Threat    | Potential cause of harm |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| Threat    | Potential cause of harm | What could attack us? |
+| Vulnerability | Weakness     | Where are we exposed? |
+| Risk     | Potential damage     | What happens if it succeeds? |
 
 # Attack Surface
 
