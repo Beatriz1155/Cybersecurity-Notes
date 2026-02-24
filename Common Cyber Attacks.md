@@ -250,8 +250,7 @@ Example:
 | IPS (Intrusion Prevention System) | A security system that not only detects malicious activity but also blocks or prevents it. |
 | CDN (Content Delivery Network) | A distributed network of geographically dispersed servers that deliver web content closer to end users. CDNs improve performance, reduce latency, and can provide additional protection against Distributed Denial-of-Service (DDoS) attacks through traffic distribution and filtering. |
 | ARP Spoofing | A network attack in which an attacker sends forged Address Resolution Protocol (ARP) messages to associate their MAC address with the IP address of another device on the network. This enables interception, modification, or redirection of traffic (often used in Man-in-the-Middle attacks). |
-| TLS (Transport Layer Security) | A cryptographic protocol that ensures confidentiality, integrity, and authentication of data transmitted over a network.
-TLS encrypts communication between client and server, preventing eavesdropping and tampering. |
+| TLS (Transport Layer Security) | A cryptographic protocol that ensures confidentiality, integrity, and authentication of data transmitted over a network. TLS encrypts communication between client and server, preventing eavesdropping and tampering. |
 | HTTPS (Hypertext Transfer Protocol Secure) | The secure version of HTTP that uses TLS encryption to protect data in transit between a client (browser) and a web server. HTTPS ensures encrypted communication and verifies server authenticity via digital certificates. |
 | VPN (Virtual Private Network) | A secure communication channel that encrypts network traffic between a user and a remote network. |
 | Hashing | A cryptographic process that converts data into a fixed-length value (hash) used for integrity verification or password storage. |
