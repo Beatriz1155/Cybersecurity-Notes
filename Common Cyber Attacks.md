@@ -234,7 +234,7 @@ Example:
 - Password hashing (bcrypt, Argon2);
 - Monitoring breach databases.
 
-
+-
 
 | Term  | What it Represents | 
 | ------------- |:-------------:|
