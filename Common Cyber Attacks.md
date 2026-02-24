@@ -237,7 +237,9 @@ Example:
 
 | Term  | What it Represents | 
 | ------------- |:-------------:|
+
 | SPF (Sender Policy Framework) | An email authentication protocol that allows domain owners to specify which mail servers are authorized to send emails on behalf of their domain. |
+
 | DKIM (DomainKeys Identified Mail) | An email authentication mechanism that uses cryptographic signatures to verify that an email message has not been altered during transit and that it was sent by an authorized domain. |
 | DMARC (Domain-based Message Authentication, Reporting, and Conformance) | An email authentication protocol that builds on SPF and DKIM.
 It allows domain owners to define how receiving servers should handle emails that fail authentication checks (e.g., reject, quarantine, or monitor). | 
