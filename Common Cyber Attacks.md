@@ -6,7 +6,27 @@
    - Click malicious links;
    - Download infected attachments;
    - Enter credentials into fake login pages.
+
 Spear phishing typically uses personal or organizational information to increase credibility.
+
+### Indicators of Compromise (IoCs)
+- Suspicious sender domains;
+- Unexpected password reset emails;
+- Lookalike domains (e.g., micros0ft.com);
+- Email headers showing spoofed origin;
+- Multiple failed login attempts following email receipt.
+
+### Detection Methods
+- Email gateway filtering;
+- SPF, DKIM, and DMARC validation;
+- User-reported suspicious emails;
+- SIEM correlation of login anomalies.
+
+### Mitigation Techniques
+- Security awareness training;
+- Multi-Factor Authentication (MFA);
+- Email filtering solutions;
+- Domain monitoring.
 
 ## Ransomware
 
