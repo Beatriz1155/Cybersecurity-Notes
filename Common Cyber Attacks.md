@@ -235,6 +235,7 @@ Example:
 - Monitoring breach databases.
 
 
+
 | Term  | What it Represents | 
 | ------------- |:-------------:|
 | SPF (Sender Policy Framework) | An email authentication protocol that allows domain owners to specify which mail servers are authorized to send emails on behalf of their domain. |
